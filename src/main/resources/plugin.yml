@@ -1,0 +1,60 @@
+name: Cosmetics
+version: 2.2.0
+description: All the Cosmetics you've ever wanted but dare not ask for
+author: Mithrillia and Strainj
+main: com.mith.Cosmetics.Cosmetics
+api-version: 1.18
+
+commands:
+  cosmetics:
+    description: Cosmetics skin command
+    aliases: [cosmetics, skin]
+    usage: /<command>
+  ct:
+    description: The main Cosmetics command
+    aliases: [ct]
+    usage: /<command>
+  deskin:
+    description: Removes custom skins from tools and weapons
+    aliases: [deskin]
+    usage: /<command>
+
+permissions:
+  cosmetics.*:
+    description: Allows you to use all of the Cosmetic commands and features
+    children:
+      cosmetics.list: true
+      cosmetics.reload: true
+      cosmetics.help: true
+      cosmetics.give: true
+      cosmetics.tag: true
+      cosmetics.free: true
+      cosmetics.debugitem: true
+      cosmetics.preview: true
+  cosmetics.list:
+    description: Allows you to see all the cosmetic tags as a list
+    default: op
+  cosmetics.reload:
+    description: Allows you to reload the plugin
+    default: op
+  cosmetics.help:
+    description: Allows you to use the help command
+    default: op
+  cosmetics.give:
+    description: Allows you to give a cosmetic tag to another player
+    default: op
+  cosmetics.tag:
+    description: Allows you to give yourself a cosmetic tag
+    default: op
+  cosmetics.free:
+    description: Gives a player a free cosmetic tag
+    default: op
+  cosmetics.preview:
+    description: Allows the player to preview all cosmetic items
+    default: op
+  cosmetics.skin:
+    description: Allows players to apply a skin the current item they are holding
+    default: op
+  cosmetics.deskin:
+    description: Allows players to apply a skin the current item they are holding
+    default: op

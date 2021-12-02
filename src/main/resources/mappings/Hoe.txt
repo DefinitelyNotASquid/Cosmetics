@@ -1,0 +1,22 @@
+Candy:100001
+Leaf:100002
+Lemon:100003
+Mysterious:100004
+Ocean:100005
+Ominous:100006
+Precious:100007
+Pumpkin:100008
+Rainbow:100009
+Watermelon:100010
+Gold:100011
+Lunar Eclipse:100012
+Midnight:100013
+Nether:100014
+Ruby:100015
+Solar Eclipse:100016
+Terraforming:100017
+Velvet:100018
+Aquamarine:100019
+Chill:100020
+Dimensional:100021
+Emerald:100022

@@ -1,0 +1,39 @@
+Candy:100001
+Guitaxe:100002
+Leaf:100003
+Lemon:100004
+Mysterious:100005
+Nomnom:100006
+Ocean:100007
+Ominous:100008
+Precious:100009
+Pumpkin:100010
+Rainbow:100011
+Watermelon:100012
+Thor:100013
+Pandaxe:100014
+Ground Sword:100015
+Hatchet:100016
+Iron War:100017
+Terraforming:100018
+Ancient Nords War:100019
+Battleaxe Diamond:100020
+Battleaxe Gold:100021
+Battleaxe Iron:100022
+Diamond War:100023
+Dimensional:100024
+Dwarven Battleaxe:100025
+Dwarven War:100026
+Elven Battleaxe:100027
+Golden War:100028
+Solar Eclipse:100029
+Velvet:100030
+Aquamarine:100031
+Chill:100032
+Dungeon:100033
+Emerald:100034
+Gold:100035
+Lunar Eclipse:100036
+Midnight:100037
+Nether:100038
+Ruby:100039

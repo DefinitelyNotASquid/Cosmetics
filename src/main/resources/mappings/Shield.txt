@@ -1,0 +1,40 @@
+Celtic:100001
+Deku:100002
+Fell Barrier:100003
+Hylian:100004
+Iron:100005
+Leather:100006
+Mayan:100007
+Mirror:100008
+Northern:100009
+Paladin:100010
+Skull:100011
+Sorcerers:100012
+Steel:100013
+Stone:100014
+Sunward:100015
+Barbarian:100016
+Diamond Dragon:100017
+Eagle:100018
+Iron Lion Head:100019
+Iron Plate:100020
+Knights:100021
+Lion Crest:100022
+Mystic:100023
+Round Iron Plate:100024
+Royal:100025
+Ruby Dragon:100026
+Serpent:100027
+Sigil:100028
+Steel Arrow:100029
+Steel Guard:100030
+Steel Plate:100031
+Wood Plate:100032
+Wooden Trimmed:100033
+Log Acacia:100034
+Log Birch:100035
+Log Dark Oak:100036
+Log Jungle:100037
+Log Oak:100038
+Log Spruce:100039
+Rose:100040

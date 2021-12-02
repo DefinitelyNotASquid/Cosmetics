@@ -1,0 +1,145 @@
+Mirror:100001
+Feathered:100002
+Demigod:100003
+Anneal:100004
+Black Iron:100005
+Core:100006
+Corgi:100007
+Dimension:100008
+Elucidator:100009
+Excalibur:100010
+Gram:100011
+Karakurenai:100012
+Lambent:100013
+Liberator:100014
+Lightsaber Blue:100015
+Lightsaber Green:100016
+Lightsaber Purple:100017
+Lightsaber Red:100018
+Lightsaber White:100019
+Lightsaber Yellow:100020
+Nugget:100021
+Obsidian:100022
+Orcish:100023
+Potato:100024
+Rainbow:100025
+Repulsor:100026
+Shard:100027
+Sky:100028
+Spear:100029
+Thorn:100030
+Tyrant:100031
+Wafloon:100032
+Flower:100033
+Strainj:100034
+Sunspear:100035
+Candy:100036
+Ocean:100037
+Leaf:100038
+Lemon:100039
+Mysterious:100040
+Ominous:100041
+Precious:100042
+Pumpkin:100043
+Mithrillia:100044
+Watermelon:100045
+Fidget Spinner Black:100046
+Fidget Spinner Blue:100047
+Fidget Spinner Green:100048
+Fidget Spinner Purple:100049
+Fidget Spinner Red:100050
+Fidget Spinner Yellow:100051
+Ripper:100052
+Infernal:100053
+Lapis:100054
+Scarab:100055
+End:100056
+Ice:100057
+Squid:100058
+Iron Scabbard:100059
+Iron Scimitar:100060
+Jagged Scabbard:100061
+Jian Long:100062
+Kokiri:100063
+Lich:100064
+Mech Saber:100065
+Necrolight:100066
+Needle:100067
+Nightmare:100068
+Red Power:100069
+Requiem:100070
+Scabbard:100071
+Serenity:100072
+Short:100073
+Skull Cutlass:100074
+Sonic Screwdriver:100075
+Soulshard:100076
+Stone Long:100077
+Stone Saber:100078
+Stone Scimitar:100079
+Sunshard:100080
+Tai Chi Long:100081
+Tempered:100082
+The Golden:100083
+The Master:100084
+Two Handed Great:100085
+Vampire:100086
+Vampiric Scabbard:100087
+Windweaver:100088
+Wood Long:100089
+Wood Saber:100090
+Wooden Scimitar:100091
+Yellow Power:100092
+Ancient Nords Gladius:100093
+Biggoron:100094
+Blue Power:100095
+Celtic Gladius:100096
+Ceremonial Gladius:100097
+Challenger:100098
+Charged:100099
+Claymore:100100
+Conqueror:100101
+Cosmic:100102
+Daito Diamond:100103
+Daito Ghost:100104
+Daito Gold:100105
+Daito Iron:100106
+Daito Stone:100107
+Daito Wood:100108
+Diamond Gladius:100109
+Diamond Long:100110
+Diamond Saber:100111
+Diamond Scimitar:100112
+Dimensional:100113
+Doombinder:100114
+Dwarven:100115
+Elven:100116
+Falchion Long:100117
+Frostward:100118
+Glass Great:100119
+Gold Long:100120
+Gold Saber:100121
+Golden Scimitar:100122
+Green Power:100123
+Iron Baseball Bat:100124
+Iron Gladius:100125
+Iron Long:100126
+Iron Saber:100127
+Chill:100128
+Demon:100129
+Dungeon:100130
+Emerald:100131
+Gold:100132
+Harpy:100133
+Lunar Eclipse:100134
+Midnight:100135
+Molten Scimitar:100136
+Molten:100137
+Nether:100138
+Phoenix:100139
+Ruby:100140
+Solar Eclipse:100141
+Spider:100142
+Velvet:100143
+Amber:100144
+Aquamarine:100145

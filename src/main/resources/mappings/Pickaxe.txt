@@ -1,0 +1,30 @@
+Birb:100001
+Candy:100002
+Driller:100003
+Leaf:100004
+Lemon:100005
+Mysterious:100006
+Ocean:100007
+Ominous:100008
+Precious:100009
+Pumpkin:100010
+Rainbow:100011
+Watermelon:100012
+Corgi:100013
+Sledge:100014
+Puppo:100015
+Nether:100016
+Ruby:100017
+Solar_Eclipse:100018
+Velvet:100019
+Amber:100020
+Aquamarine:100021
+Chill:100022
+Dimensional:100023
+Drill Diamond:100024
+Drill Gold:100025
+Drill Iron:100026
+Emerald:100027
+Gold:100028
+Lunar Eclipse:100029
+Midnight:100030
