@@ -1,9 +1,9 @@
 name: Cosmetics
-version: 2.2.0
+version: 2.2.1
 description: All the Cosmetics you've ever wanted but dare not ask for
 author: Mithrillia and Strainj
 main: com.mith.Cosmetics.Cosmetics
-api-version: 1.18
+api-version: 1.19
 
 commands:
   cosmetics:
